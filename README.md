@@ -1,6 +1,6 @@
 # 9th-ML
 ## 📢 발표 안내
-- 📚 [발표 자료] - 9/22 업로드 예정
+- 📚 [발표 자료](https://github.com/Ewha-Euron/9th-ML/blob/d4a70195d57ef155b876627af020133e3ad391e8/3%EC%A3%BC%EC%B0%A8_Euron_3%ED%8C%80_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%ED%86%B5%ED%95%A9%EB%B3%B8.pdf)
 - 발표자: 3팀(권혜수, 조한희, 이시현)
 - 파머완 4장. 분류 - Part 1(4.1 ~ 4.4장)
   - 분류 개요
@@ -50,3 +50,9 @@
   - 라벨: 복습과제
   - branch: Week_2
   - **9월 22일 23:59**까지 제출합니다.
+    
+## 💚우수과제💚
+- [🌟Week3_예습과제_조승연](https://github.com/Ewha-Euron/9th-ML/pull/33/files)
+- [🌟Week3_예습과제_엄지민](https://github.com/Ewha-Euron/9th-ML/pull/46/files)
+- [🌟Week2_복습과제_박혜린](https://github.com/Ewha-Euron/9th-ML/pull/40/files)
+
